@@ -2,7 +2,11 @@
 ## Quantitative veterinary epidemiology and disease ecology lab
 ==============================
 
-Text summarizing your project.
+Summarizing the potential factors of Hummingbird survival rate.
+Comparing the number of hummingbirds that were released versus those that died across each factor.
+The outputs indicate that Season, the retrieval condition, and Age of the Hummingbirds are potential predictors of the survival rate.
+Place and First Aid may not be clearly distinguishable based on the graphs alone.
+Suggesting logistic regression for further statistical tests.
 
 ## Project Organization
 ------------
